@@ -1,9 +1,15 @@
 # Sales Predictions
+This is the final version of the sales prediction project.
+
 ![Data Science Cycle](https://github.com/iyadh97/food-sales-predictions/blob/main/Data/DS_CYCLE.png)
 ## Making Sales Predictions Using Machine Learning 
 **Mohamed Iyadh Tajouri**: 
 ### Objective:
 To help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
+
+### CRISP-DM workflow:
+We will be following the CRISP-DM workflow for our analysis.
+![CRISP-DM workflow](https://github.com/iyadh97/food-sales-predictions/blob/main/Data/CRISP-DM.png)
 ### Data:
 [Link to original dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/) <br>
 This dataset had a total of 8523 rows and 12 columns of information. There were a total 5 numeric columns and 7 categorical columns.
