@@ -63,6 +63,62 @@ This dataset had a total of 8523 rows and 12 columns of information. There were 
 - Based on the above graph:
 We can tell that the Item Outlet Sales sell more medium Size items in all categories except for the Seafood.
 
+### Maching Learning Using the Following Models:
+- Linear Regression Model
+- Decision Tree Regressor Model
+- Tuned Decision Tree Regressor Model
+- Random Forest Regressor Model
+- Tuned Random Forest Regressor Model
+  
+## Models Evaluated & Results
+
+------------------------------------------------------------
+- Linear Regression: Training Data
+------------------------------------------------------------
+- MAE = 847.132
+- MSE = 1,297,560.929
+- RMSE = 1,139.105
+- R^2 = 0.562
+------------------------------------------------------------
+- Linear Regression: Test Data
+------------------------------------------------------------
+- MAE = 804.130
+- MSE = 1,194,369.710
+- RMSE = 1,092.872
+- R^2 = 0.567
+  
+------------------------------------------------------------
+------------------------------------------------------------
+- Decision Tree (Tuned): Training Data
+------------------------------------------------------------
+- MAE = 762.612
+- MSE = 1,172,146.491
+- RMSE = 1,082.657
+- R^2 = 0.604
+------------------------------------------------------------
+- Decision Tree (Tuned): Test Data
+------------------------------------------------------------
+- MAE = 738.360
+- MSE = 1,118,064.645
+- RMSE = 1,057.386
+- R^2 = 0.595
+  
+------------------------------------------------------------
+------------------------------------------------------------
+- Random Forest(Tuned): Training Data
+------------------------------------------------------------
+- MAE = 642.477
+- MSE = 823,301.481
+- RMSE = 907.360
+- R^2 = 0.722
+------------------------------------------------------------
+- Random Forest (Tuned): Test Data
+------------------------------------------------------------
+- MAE = 737.938
+- MSE = 1,129,270.662
+- RMSE = 1,062.671
+- R^2 = 0.591
+
 ## Results and recommendations 
 The Random Forest model outperforms both linear regression and the Decision Tree model and stands out with the highest R^2 value (72.2%) on the training data, indicating that it explains about 72.2% of the variance in the target variable. This model also performs relatively well on the test data, capturing 59.1% of the variance. With balanced performance and the highest R^2.
 
