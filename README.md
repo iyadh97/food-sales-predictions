@@ -30,6 +30,7 @@ This dataset had a total of 8523 rows and 12 columns of information. There were 
    - Linear Regression Model
    - Decision Tree Model
    
+ ### Exploratory Data Analysis
  #### Average Item Sales by Type and Fat Content
 ![Capture]() 
 - Comparing the sales by Item and their fat content, we can see that the sales of certain items are clearly influenced by whether they are low fat or regular. An observation I see is that items which tend to have high levels of sugars such as snacks, drinks and breakfast are the items that sell more low fat content.
