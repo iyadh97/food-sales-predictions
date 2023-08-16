@@ -1,4 +1,5 @@
 # Sales Predictions
+![Data Science Cycle](https://github.com/iyadh97/food-sales-predictions/blob/main/Data/DS_CYCLE.png)
 ## Making Sales Predictions Using Machine Learning 
 **Mohamed Iyadh Tajouri**: 
 ### Objective:
